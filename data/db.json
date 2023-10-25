@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Node.js"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Angular.js"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Express.js"
+    }
+  ]
+}
