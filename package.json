@@ -1,6 +1,7 @@
 {
   "homepage": "http://AARIF2603.github.io/To-do-LIST",
   "name": "dudhu",
+  "displayName": "TodoList",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
